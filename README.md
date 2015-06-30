@@ -23,18 +23,6 @@ A dashboard for the Raspberry Pi
 - If it's installed: OpenVPN shortcut
 - Responsive UI
 
-## Howto: 
-**Add a custom library to the player**
-
-- Navigate to the pidash-directory
-- Navigate to `pages/player/libs`
-- Copy or modify the `example.php` to suit your needs
-    
-**Watch a nsfw library in the player**
-
-- Open the player in your browser
-- Append `?nsfw` to the URL
-
 ## Screenshots
 **Login screen**
 ![Login screen](http://i.imgur.com/zUBxo6l.png)
